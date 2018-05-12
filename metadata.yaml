@@ -1,0 +1,50 @@
+_repo: The-Three-Admirals_21447
+_version: 0.1.0
+contributor:
+  illustrators:
+  - agent_name: Staniland, Charles Joseph
+    aliases:
+    - Staniland, C. J. (Charles Joseph)
+    - Staniland, C.J.
+    birthdate: 1838
+    deathdate: 1916
+    gutenberg_agent_id: '9714'
+    url: http://www.gutenberg.org/2009/agents/9714
+  - agent_name: Wells, Joseph Robert
+    alias: Wells, J. R. (Joseph Robert)
+    gutenberg_agent_id: '9715'
+    url: http://www.gutenberg.org/2009/agents/9715
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Kingston, William Henry Giles
+    aliases:
+    - Kingston, W. H. G.
+    - Kingston, W.H.G.
+    birthdate: 1814
+    deathdate: 1880
+    gutenberg_agent_id: '8659'
+    url: http://www.gutenberg.org/2009/agents/8659
+    wikipedia: http://en.wikipedia.org/wiki/William_Henry_Giles_Kingston
+description: ''
+gutenberg_issued: '2007-05-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21447'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Admirals -- Juvenile fiction'
+- !lcsh 'Seafaring life -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Rescues -- Juvenile fiction'
+- !lcsh 'Adventure and adventurers -- Juvenile fiction'
+- !lcsh 'Pirates -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Shipwrecks -- Juvenile fiction'
+title: The Three Admirals
+url: http://www.gutenberg.org/ebooks/21447
